@@ -1,6 +1,6 @@
 ## SageMaker Foundation Models
 
-This repository contains notebooks to deploy JumpStart Foundation Modes.
+This repository contains notebooks to deploy JumpStart foundation models.
 
 ## License
 
