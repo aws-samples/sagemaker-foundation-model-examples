@@ -1,4 +1,4 @@
-## SageMaker Foundation Models
+## SageMaker JumpStart foundation models
 
 This repository contains notebooks to deploy JumpStart foundation models.
 
